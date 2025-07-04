@@ -1,7 +1,7 @@
 # Trader Behavior & Market Sentiment Analysis
 
 ## Overview
-This project explores how Bitcoin market sentiment â€” captured via the Fear & Greed Index â€” influences trader behavior and profitability on Hyperliquid.
+This project explores how Bitcoin market sentiments captured via the Fear & Greed Index influences trader behavior and profitability on Hyperliquid.
 
 **Datasets Used:**
 - `historical_data.csv`: Trader-level activity on Hyperliquid
@@ -20,7 +20,7 @@ This project explores how Bitcoin market sentiment â€” captured via the Fea
 **Highest Avg PnL** occurred on **Extreme Greed** days ($121.20).
 **Fear-based sentiment** triggered higher trading volume and a slight **buy-side bias**.
 Trade behavior during **Neutral** days was more balanced, with lower profitability.
-Most trades closed at breakeven (Median PnL â‰ˆ $0), suggesting small scalps or ineffective strategies.
+Most trades closed at breakeven (Median PnL $0), suggesting small scalps or ineffective strategies.
 
 ---
 
