@@ -45,4 +45,4 @@ Buy vs Sell Distribution by SentimentTrade Volume by Sentiment
 ---
 
 ## Author
-Anyam Anitha for **Junior Data Scientist** role at PrimeTrade AI
+Anyam Anitha
